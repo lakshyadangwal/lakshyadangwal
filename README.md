@@ -1,24 +1,24 @@
 # Lakshya Dangwal
 
-## 🎈 A Little About Me
+## A Little About Me
 
-> 🎓 Currently pursuing a **BCA in AI & Data Science** at **K.R. Mangalam University, Sohna**
+> Currently pursuing a **BCA in AI & Data Science** at **K.R. Mangalam University, Sohna**
 >
-> 💻 I live at the intersection of **full-stack dev** (React, FastAPI, PostgreSQL) and **security** — trying to make sure the things I build actually hold up
+> I live at the intersection of **full-stack dev** (React, FastAPI, PostgreSQL) and **security** — trying to make sure the things I build actually hold up
 >
-> 🧠 Learning style: jump in, break stuff, fix it, repeat
+> Learning style: jump in, break stuff, fix it, repeat
 >
-> 🌱 Currently poking around: offline-first apps, encrypted comms, and AI-powered tooling
+> Currently poking around: offline-first apps, encrypted comms, and AI-powered tooling
 >
-> ⚡ Fresh badge unlocked: **Google AI Professional Certificate** (Jun 2026)
+> Fresh badge unlocked: **Google AI Professional Certificate** (Jun 2026)
 >
-> 🏆 LeetCode 50-Day streak & 100 Days of Code — DSA + Dynamic Programming grind
+> LeetCode 50-Day streak & 100 Days of Code — DSA + Dynamic Programming grind
 >
-> 📫 Ping me: **lakshya260107@gmail.com**
+> Ping me: **lakshya260107@gmail.com**
 
 <br>
 
-## 🧰 My Toolbox
+## My Toolbox
 
 <div align="center">
 
