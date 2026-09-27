@@ -140,16 +140,6 @@ Built an IoT-based livestock monitoring collar tracking body temperature, heart 
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lakshyadangwal/lakshyadangwal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-<sub align="center">👆 To make this snake wiggle, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates that svg from your contribution graph. Happy to walk you through the workflow file if you want it.</sub>
-
-<br><br>
-
 ## 🌐 Let's Connect
 
 <div align="center">
