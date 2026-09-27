@@ -131,7 +131,7 @@ Built an IoT-based livestock monitoring collar tracking body temperature, heart 
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshyadangwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyadangwal&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=lakshyadangwal&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 <div align="center">
