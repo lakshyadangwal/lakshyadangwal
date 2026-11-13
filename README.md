@@ -1,24 +1,26 @@
-# Lakshya Dangwal
+# lakshyadangwal / Lakshya Dangwal
 
-## A Little About Me
+<table>
+  <tr>
+    <td>
+      <i>I build things that break, then fix them so they don't break again.</i><br><br>
+      Full-stack tinkerer + security hobbyist living at the crossroads of <b>React</b>, <b>FastAPI</b>, and <b>PostgreSQL</b>. Currently obsessed with offline-first apps, encrypted communications, and AI-powered tooling that actually works offline.<br><br>
+      Learning style: jump in, break stuff, fix it, repeat.
+    </td>
+  </tr>
+</table>
 
-> Currently pursuing a **BCA in AI & Data Science** at **K.R. Mangalam University, Sohna**
->
-> I live at the intersection of **full-stack dev** (React, FastAPI, PostgreSQL) and **security** — trying to make sure the things I build actually hold up
->
-> Learning style: jump in, break stuff, fix it, repeat
->
-> Currently poking around: offline-first apps, encrypted comms, and AI-powered tooling
->
-> Fresh badge unlocked: **Google AI Professional Certificate** (Jun 2026)
->
-> LeetCode 50-Day streak & 100 Days of Code — DSA + Dynamic Programming grind
->
-> Ping me: **lakshya260107@gmail.com**
+---
 
-<br>
+### 🔖 Badges unlocked
 
-## My Toolbox
+- **Google AI Professional Certificate** (Jun 2026)
+- LeetCode 50-day streak & counting
+- 100 Days of Code — DSA + Dynamic Programming grind
+
+---
+
+## 🛠️ My toolbox
 
 <div align="center">
 
@@ -49,3 +51,33 @@
 <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
 
 </div>
+
+---
+
+## 🧠 Currently poking around
+
+- **Offline-first** applications that work without a connection
+- **Encrypted comms** — keeping conversations private by design
+- **AI-powered tooling** — practical assistants, not hype
+- **Security** — making sure the things I build actually hold up
+
+---
+
+## 📊 GitHub snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyadangwal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyadangwal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Ping me
+
+**lakshya260107@gmail.com** · open to collaborations, weird project ideas, and security conversations.
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by. Build fast, break things, fix them faster.</i>
+</p>
