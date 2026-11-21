@@ -14,6 +14,7 @@
 
 ### 🔖 Badges unlocked
 
+- **Winner: Deep Data Science Hackathon 3.0** 🏆
 - **Google AI Professional Certificate** (Jun 2026)
 - LeetCode 50-day streak & counting
 - 100 Days of Code — DSA + Dynamic Programming grind
